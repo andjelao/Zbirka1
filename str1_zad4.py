@@ -1,5 +1,5 @@
 # unosenje datuma u obliku dd.mm.gg, stampa datum sa imenom mjeseca umjesto broja
-datum= input(" Unesite datum u formatu dan.mjesec.godina: ")
+datum= input(" Unesite datum u formatu dan.mjesec.godina.: ")
 
 prva_tacka=datum.index(".")
 zadnja_tacka=datum.rfind(".")
