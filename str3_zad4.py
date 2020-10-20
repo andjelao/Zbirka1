@@ -1,4 +1,4 @@
-# za unesene koeficijente ka=vadratne jednacine stampa njena rjesenja
+# za unesene koeficijente kvadratne jednacine stampa njena rjesenja
 import math
 import cmath
 print("Unesite koeficijente kvadratne jednacine: ")
